@@ -32,4 +32,4 @@ toasted/
 Clone the repo or copy the files:
 
 ```bash
-git clone https://github.com/yourusername/toasted.git
+git clone https://github.com/KabriAcid/toasted.git
